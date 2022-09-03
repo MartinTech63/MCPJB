@@ -1,105 +1,165 @@
-{
-	"packs": {
-		"vanilla-1_8_9": {
-			"name": "Version 1.8.9",
-			"version": 8,
-			"install": {
-				"url": "https://minecrack.fr/vanilla-1_8_9-3.zip",
-				"hash": "a7b11261323e13ca39383997e4198583e3ccca78",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
-		},
-		"vanilla_1_9_4": {
-			"name": "Version 1.9.4",
-			"version": 8,
-			"install": {
-				"url": "",
-				"hash": "e8074348103e1c600f2c7e87645bfeb7b05f8109",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
-		},
-		"vanilla_1_13_2": {
-			"name": "",
-			"version": 8,
-			"install": {
-				"url": "https://minecrack.fr/vanilla-1_13_2-3.zip",
-				"hash": "1b3a2b4252841afee576bd1b29f63cf00f2522ee",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
-		},
-		"vanilla_1_15_2": {
-			"name": "",
-			"version": 7,
-			"install": {
-				"url": "https://minecrack.fr/vanilla-1_15_2-3.zip",
-				"hash": "86dc8e5919a4506c17fae55b542e112863ebf214",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.client.main.Main",
-				"assets": "assets",
-				"args": []
-			}
-		},
-		"vanilla_1_16_4": {
-			"name": "",
-			"version": 5,
-			"install": {
-				"url": "https://minecrack.fr/vanilla-1_16_4-3.zip",
-				"hash": "96def7663e195d353547dabc687ed6372869c2cb",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
-		}
-	}
-}
-
+	
+packs	
+vanilla-1_8_9	
+name	"Version 1.8.9"
+version	8
+install	
+url	"https://minecrack.fr/vanilla-1_8_9-3.zip"
+hash	"a7b11261323e13ca39383997e4198583e3ccca78"
+verify	
+0	"libraries"
+1	"natives"
+2	"minecraft.jar"
+launch	
+jvmflags	
+0	"-XX:+IgnoreUnrecognizedVMOptions"
+1	"-XstartOnFirstThread"
+2	"-Xmx2G"
+3	"-XX:+UseG1GC"
+4	"-XX:+UnlockExperimentalVMOptions"
+5	"-XX:G1NewSizePercent=20"
+6	"-XX:G1ReservePercent=20"
+7	"-XX:MaxGCPauseMillis=50"
+8	"-XX:G1HeapRegionSize=32M"
+jvmflags_default	
+0	"-Xmx1280M"
+jvmflags_64	
+0	"-Xmx2G"
+natives	"natives"
+libraries	"libraries"
+jar	"minecraft.jar"
+main	"net.minecraft.launchwrapper.Launch"
+assets	"assets"
+args	
+0	"--tweakClass"
+1	"optifine.OptiFineTweaker"
+vanilla_1_9_4	
+name	"Version 1.9.4"
+version	8
+install	
+url	"https://minecrack.fr/vanilla-1_9_4-3.zip"
+hash	"e8074348103e1c600f2c7e87645bfeb7b05f8109"
+verify	
+0	"libraries"
+1	"natives"
+2	"minecraft.jar"
+launch	
+jvmflags	
+0	"-XX:+IgnoreUnrecognizedVMOptions"
+1	"-XstartOnFirstThread"
+2	"-Xmx2G"
+3	"-XX:+UseG1GC"
+4	"-XX:+UnlockExperimentalVMOptions"
+5	"-XX:G1NewSizePercent=20"
+6	"-XX:G1ReservePercent=20"
+7	"-XX:MaxGCPauseMillis=50"
+8	"-XX:G1HeapRegionSize=32M"
+jvmflags_default	
+0	"-Xmx1280M"
+jvmflags_64	
+0	"-Xmx2G"
+natives	"natives"
+libraries	"libraries"
+jar	"minecraft.jar"
+main	"net.minecraft.launchwrapper.Launch"
+assets	"assets"
+args	
+0	"--tweakClass"
+1	"optifine.OptiFineTweaker"
+vanilla_1_13_2	
+name	"Version 1.13.2"
+version	8
+install	
+url	"https://minecrack.fr/vanilla-1_13_2-3.zip"
+hash	"1b3a2b4252841afee576bd1b29f63cf00f2522ee"
+verify	
+0	"libraries"
+1	"natives"
+2	"minecraft.jar"
+launch	
+jvmflags	
+0	"-XX:+IgnoreUnrecognizedVMOptions"
+1	"-XstartOnFirstThread"
+2	"-Xmx2G"
+3	"-XX:+UseG1GC"
+4	"-XX:+UnlockExperimentalVMOptions"
+5	"-XX:G1NewSizePercent=20"
+6	"-XX:G1ReservePercent=20"
+7	"-XX:MaxGCPauseMillis=50"
+8	"-XX:G1HeapRegionSize=32M"
+jvmflags_default	
+0	"-Xmx1280M"
+jvmflags_64	
+0	"-Xmx2G"
+natives	"natives"
+libraries	"libraries"
+jar	"minecraft.jar"
+main	"net.minecraft.launchwrapper.Launch"
+assets	"assets"
+args	
+0	"--tweakClass"
+1	"optifine.OptiFineTweaker"
+vanilla_1_15_2	
+name	"Version 1.15.2"
+version	7
+install	
+url	"https://minecrack.fr/vanilla-1_15_2-3.zip"
+hash	"86dc8e5919a4506c17fae55b542e112863ebf214"
+verify	
+0	"libraries"
+1	"natives"
+2	"minecraft.jar"
+launch	
+jvmflags	
+0	"-XX:+IgnoreUnrecognizedVMOptions"
+1	"-XstartOnFirstThread"
+2	"-Xmx2G"
+3	"-XX:+UseG1GC"
+4	"-XX:+UnlockExperimentalVMOptions"
+5	"-XX:G1NewSizePercent=20"
+6	"-XX:G1ReservePercent=20"
+7	"-XX:MaxGCPauseMillis=50"
+8	"-XX:G1HeapRegionSize=32M"
+jvmflags_default	
+0	"-Xmx1280M"
+jvmflags_64	
+0	"-Xmx2G"
+natives	"natives"
+libraries	"libraries"
+jar	"minecraft.jar"
+main	"net.minecraft.client.main.Main"
+assets	"assets"
+args	[]
+vanilla_1_16_4	
+name	"Version 1.16.4"
+version	5
+install	
+url	"https://minecrack.fr/vanilla-1_16_4-3.zip"
+hash	"96def7663e195d353547dabc687ed6372869c2cb"
+verify	
+0	"libraries"
+1	"natives"
+2	"minecraft.jar"
+launch	
+jvmflags	
+0	"-XX:+IgnoreUnrecognizedVMOptions"
+1	"-XstartOnFirstThread"
+2	"-Xmx2G"
+3	"-XX:+UseG1GC"
+4	"-XX:+UnlockExperimentalVMOptions"
+5	"-XX:G1NewSizePercent=20"
+6	"-XX:G1ReservePercent=20"
+7	"-XX:MaxGCPauseMillis=50"
+8	"-XX:G1HeapRegionSize=32M"
+jvmflags_default	
+0	"-Xmx1280M"
+jvmflags_64	
+0	"-Xmx2G"
+natives	"natives"
+libraries	"libraries"
+jar	"minecraft.jar"
+main	"net.minecraft.launchwrapper.Launch"
+assets	"assets"
+args	
+0	"--tweakClass"
+1	"optifine.OptiFineTweaker"
