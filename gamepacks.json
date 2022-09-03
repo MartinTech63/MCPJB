@@ -4,7 +4,7 @@
 			"name": "Version 1.8.9",
 			"version": 8,
 			"install": {
-				"url": "https://minecrack.fr/vanilla-1_8_9-3.zip",
+				"url": "https://pjb63-my.sharepoint.com/personal/m_pontoizeau_pjb63_org/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fm%5Fpontoizeau%5Fpjb63%5Forg%2FDocuments%2Fvanilla%2D1%5F8%5F9%2D3%2Ezip",
 				"hash": "a7b11261323e13ca39383997e4198583e3ccca78",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
