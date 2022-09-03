@@ -4,7 +4,7 @@
 			"name": "Version 1.8.9",
 			"version": 8,
 			"install": {
-				"url": "https://doc-0c-74-docs.googleusercontent.com/docs/securesc/drtkg1dgqgsa752mustrl4s1nv6qdj8v/mq6dv18h68qflvt0d3ns28jvg4ff0gbt/1662211425000/10600553245770374259/10600553245770374259/1x_xzq2b-MXmFq32PV6kz-a4Pn0rbi-_z?e=download&ax=AI9vYm695koSnua8LbzyyZwnIM5xFScsGYzDNeRWChM3pSsbp-F8ECPINjW9SKpc8eoC_oWml8wQLPEXI2w4I-wz0hGuCsx2sWXwz-2hcROJQdIOvJYhfe1CueUSHpjA8ugiHzyR4fsNCOJEacUuG15xUIHInhOqsUckrR1MkvpI9E9ePf3V5gu8Y-jbv1dsIYor5QIGXIKD5btlv9eVq5wEjPEAIpblpRZGQx2rve1qLDZzNUDbU98OC4QF1-LBxmQ13P0p-Z9wZKqB7UpfYDfBN7QE5vmg1a5KgNnw5EkcDDeDQvne5mi_TEmDPkra6V3Y5aVcC9LBE5wsgR-EoCleS9xsFiIwDAQRz1sT03fgcW0d7J1KxZlXpZSI9kZGPQFw-A-zup05iR2PPsPNzoKQBp5n3qc8R7BLzJwOBPttR_8LX4HMfMqZ_tdRhdPT4Uq5dtEdsdhEC00-OQ5_0lMvOso1ycfAMk7wT8QqgjL-EDXFV4IP3n_aHMPDM3HU9UC4AWMQsJFO-IEwfaQTqor0c8SYoTAR_m2Kc6BNDsHV2X_ywayGCNzq-X4MyO2I382CMti6LOqiWhG-xp6gKYZqi19DmNEPXce8sKfVAMf3Vz2YrZIB5NNFlql0RLLuOsnJWQ6uVvzEKt8qbPfDRwjMeqIShOoAArmJni5SCKOOEy6KYxS-Lfe4qopKJgbsBujTCbzuFuufQU9Sic7cvhOZ7e7X80646VpDFmnU6ijadXvNYQcUqHjWP4ELt8jGrz_s9ckUBwHkDOFoZyBDN2UJzEM5lrCsJgJdZ_UwQFM-AnmnAgEWmLLQlZR1iA3XoME&uuid=63e9086c-159a-42d4-baca-e547d054339b&authuser=3&nonce=is1d29nenmdhs&user=10600553245770374259&hash=htjdg9un9ptuqr2vl52orjhj4udlopvm",
+				"url": "https://minecrack.fr/vanilla-1_8_9-3.zip",
 				"hash": "a7b11261323e13ca39383997e4198583e3ccca78",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
@@ -24,7 +24,7 @@
 			"name": "Version 1.9.4",
 			"version": 8,
 			"install": {
-				"url": "https://minecrack.fr/vanilla-1_9_4-3.zip",
+				"url": "",
 				"hash": "e8074348103e1c600f2c7e87645bfeb7b05f8109",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
@@ -41,7 +41,7 @@
 			}
 		},
 		"vanilla_1_13_2": {
-			"name": "Version 1.13.2",
+			"name": "",
 			"version": 8,
 			"install": {
 				"url": "https://minecrack.fr/vanilla-1_13_2-3.zip",
@@ -61,7 +61,7 @@
 			}
 		},
 		"vanilla_1_15_2": {
-			"name": "Version 1.15.2",
+			"name": "",
 			"version": 7,
 			"install": {
 				"url": "https://minecrack.fr/vanilla-1_15_2-3.zip",
@@ -81,7 +81,7 @@
 			}
 		},
 		"vanilla_1_16_4": {
-			"name": "Version 1.16.4",
+			"name": "",
 			"version": 5,
 			"install": {
 				"url": "https://minecrack.fr/vanilla-1_16_4-3.zip",
