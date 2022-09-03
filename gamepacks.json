@@ -24,7 +24,7 @@
 			"name": "Version 1.9.4",
 			"version": 8,
 			"install": {
-				"url": "https://minecrack.fr/vanilla-1_9_4-3.zip",
+				"url": "",
 				"hash": "e8074348103e1c600f2c7e87645bfeb7b05f8109",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
@@ -44,7 +44,7 @@
 			"name": "Version 1.13.2",
 			"version": 8,
 			"install": {
-				"url": "https://minecrack.fr/vanilla-1_13_2-3.zip",
+				"url": "",
 				"hash": "1b3a2b4252841afee576bd1b29f63cf00f2522ee",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
@@ -64,7 +64,7 @@
 			"name": "Version 1.15.2",
 			"version": 7,
 			"install": {
-				"url": "https://minecrack.fr/vanilla-1_15_2-3.zip",
+				"url": "",
 				"hash": "86dc8e5919a4506c17fae55b542e112863ebf214",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
@@ -84,7 +84,7 @@
 			"name": "Version 1.16.4",
 			"version": 5,
 			"install": {
-				"url": "https://minecrack.fr/vanilla-1_16_4-3.zip",
+				"url": "",
 				"hash": "96def7663e195d353547dabc687ed6372869c2cb",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
