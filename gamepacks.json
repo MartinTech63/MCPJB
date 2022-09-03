@@ -4,7 +4,7 @@
 			"name": "Version 1.8.9",
 			"version": 8,
 			"install": {
-				"url": "https://minecrack.fr/vanilla-1_8_9-3.zip",
+				"url": "https://www.dropbox.com/s/hiofptlsvy9c6rk/vanilla-1_8_9-3.zip?dl=0",
 				"hash": "a7b11261323e13ca39383997e4198583e3ccca78",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
@@ -81,7 +81,7 @@
 			}
 		},
 		"vanilla_1_16_4": {
-			"name": "Version 666",
+			"name": "Version 1.16.4",
 			"version": 5,
 			"install": {
 				"url": "https://minecrack.fr/vanilla-1_16_4-3.zip",
