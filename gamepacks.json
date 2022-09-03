@@ -4,7 +4,7 @@
 			"name": "Version 1.8.9",
 			"version": 8,
 			"install": {
-				"url": "https://www.dropbox.com/s/hiofptlsvy9c6rk/vanilla-1_8_9-3.zip?dl=0",
+				"url": "https://drive.google.com/u/3/uc?id=1x_xzq2b-MXmFq32PV6kz-a4Pn0rbi-_z&export=download",
 				"hash": "a7b11261323e13ca39383997e4198583e3ccca78",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
