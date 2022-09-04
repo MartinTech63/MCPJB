@@ -59,7 +59,7 @@
 				"assets": "assets",
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
-		},
+		}
 	}
 }
 
