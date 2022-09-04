@@ -20,12 +20,12 @@
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
 		},
-		"moddée_test_1_12_2": {
-			"name": "Version forge 1.12.2",
+		"moddée_test_1_16_4": {
+			"name": "Version forge 1.16.4",
 			"version": 8,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/qCDZc02TA5dClnlMeS6eGjHem6wUEfTM/webapi/entry.cgi/modd%C3%A9e_test_1_12_2.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706596385484485974%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662307434096&sharing_token=%22yfyteA6d.Jd22TzNZW4t4fdjM5mZIkQBA.Ax0l_qnPZbeYFjh0vFGle43aSDCvtNxuxlMxhyNP6fqZkvujmsq4JByX3x8Z5sO4VX2QIDmyLB785FgGCINyjbhvcH95FKqCUZKgAnLzcOf_KOTKPhI..9QUXJT4OBdWZt5x4t2JBvy_dHT3zONJ9y7cv76oUKaSBscUOXMCaJIUATx8ch2u4PHvcXRyo7z8iZa51bC5r50lDcxg6kE71c%22&SynoToken=GVQwPUfeyr7d6",
-				"hash": "e8074348103e1c600f2c7e87645bfeb7b05f8109",
+				"url": "https://drive.charreyron.fr/d/s/qCDozPoOa4r87UujStYfPilEyaPNFYGk/webapi/entry.cgi/modd%C3%A9e_test_1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706597258939905405%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662307849663&sharing_token=%22kT6OW_8vCp8XDbSKG.QXxnV1S3hblTyqOWjbAp.KLwplJehFcMN2zKvdF_6l.KFBcAGr2lfCsLs5KdsG1797vaJQYib0oKNjoGOgj9ByYLRbCkwYYefmf_p.a_x0a_LoSSouID57Teoh.CiTlacI.t5iZulTarrBb2uJv6.jeQTa1wD_BoRpmfE64FSQsKDsCM3_hAjxXZlb.LugkPeOPntn6Uj2nN.FgSvLX6xb_cwl5XQGx1ltKlHK%22&SynoToken=GVQwPUfeyr7d6",
+				"hash": "96def7663e195d353547dabc687ed6372869c2cb",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
