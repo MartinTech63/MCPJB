@@ -57,7 +57,7 @@
 				"jar": "minecraft.jar",
 				"main": "net.minecraft.launchwrapper.Launch",
 				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
+				"args": ["--tweakClass"]
 			}
 		}
 	}
