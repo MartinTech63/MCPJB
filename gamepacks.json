@@ -20,6 +20,26 @@
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
 		},
+		"moddée_test_1_12_2": {
+			"name": "Version forge 1.12.2",
+			"version": 8,
+			"install": {
+				"url": "https://drive.charreyron.fr/d/s/qCDZc02TA5dClnlMeS6eGjHem6wUEfTM/webapi/entry.cgi/modd%C3%A9e_test_1_12_2.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706596385484485974%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662307434096&sharing_token=%22yfyteA6d.Jd22TzNZW4t4fdjM5mZIkQBA.Ax0l_qnPZbeYFjh0vFGle43aSDCvtNxuxlMxhyNP6fqZkvujmsq4JByX3x8Z5sO4VX2QIDmyLB785FgGCINyjbhvcH95FKqCUZKgAnLzcOf_KOTKPhI..9QUXJT4OBdWZt5x4t2JBvy_dHT3zONJ9y7cv76oUKaSBscUOXMCaJIUATx8ch2u4PHvcXRyo7z8iZa51bC5r50lDcxg6kE71c%22&SynoToken=GVQwPUfeyr7d6",
+				"hash": "e8074348103e1c600f2c7e87645bfeb7b05f8109",
+				"verify": ["libraries", "natives", "minecraft.jar"]
+			},
+			"launch": {
+				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
+				"jvmflags_default": ["-Xmx1280M"],
+				"jvmflags_64": ["-Xmx2G"],
+				"natives": "natives",
+				"libraries": "libraries",
+				"jar": "minecraft.jar",
+				"main": "net.minecraft.launchwrapper.Launch",
+				"assets": "assets",
+				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
+			}
+		},
 		"vanilla_1_9_4": {
 			"name": "Version 1.9.4",
 			"version": 8,
