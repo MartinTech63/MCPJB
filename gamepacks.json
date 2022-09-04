@@ -1,6 +1,6 @@
 {
 	"packs": {
-		"vanilla-1_8_9": {
+		"optifine-1_8_9": {
 			"name": "Optifine 1.8.9",
 			"version": 8,
 			"install": {
@@ -20,92 +20,12 @@
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
 		},
-		"moddée_test_1_16_4": {
-			"name": "Version forge 1.16.4",
-			"version": 8,
-			"install": {
-				"url": "",
-				"hash": "b50c7fa3962aef5b2ad6f0ea6af6251de2f80a81",
-				"verify": ["libraries", "natives", "minecraft.jar", "forge.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "forge.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
-		},
-		"vanilla_1_9_4": {
-			"name": "Version 1.9.4",
-			"version": 8,
-			"install": {
-				"url": "",
-				"hash": "e8074348103e1c600f2c7e87645bfeb7b05f8109",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
-		},
-		"vanilla_1_12_2": {
-			"name": "Version 1.12.2",
-			"version": 8,
-			"install": {
-				"url": "https://drive.charreyron.fr/d/s/qCM4zhPOU3g0dTcUsUFyKuEguYNDLjoO/webapi/entry.cgi/vanilla-1_12_2.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706626340920539888%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662321733813&sharing_token=%222VNjFOvxKlcYw7aOKqbnVgTTtTfoaIYfn_lBaUKC9Rp.o7bAfZCYpfedrNREu.RjMFvQO9sJkcTYbaLf7pCK3LZm.j1cBufMVSpaDo3LfB_SAxvyHOpiy51SBvaZaCyMWVzszTHSpd51JoG4Efw.QL59YKHin.6mq6FdlQ1hZeRsBd3tso0jGCsQc_3qxIMAP8N50qlGFMoGZjiPDeCJiT9HZbXni4hZTXQbSHOSAO7re0COO49og4GS%22&SynoToken=GVQwPUfeyr7d6",
-				"hash": "ff8692b5617061ce4ceaea33c8752d0c54bf3f79",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
-		},
-		"vanilla_1_15_2": {
-			"name": "Version 1.15.2",
-			"version": 7,
-			"install": {
-				"url": "",
-				"hash": "86dc8e5919a4506c17fae55b542e112863ebf214",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.client.main.Main",
-				"assets": "assets",
-				"args": []
-			}
-		},
-		"vanilla_1_16_4": {
-			"name": "Version 1.16.4",
+		"optifine_1_16_4": {
+			"name": "Optifine 1.16.4",
 			"version": 5,
 			"install": {
-				"url": "",
-				"hash": "96def7663e195d353547dabc687ed6372869c2cb",
+				"url": "https://drive.charreyron.fr/d/s/qCMSejumx3QLJEpTo7gluyxV2ORJi0AY/webapi/entry.cgi/optifine-1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706627684924439326%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662322362331&sharing_token=%22pfJAs7uVnBUSt72vNIc1FGcHW6uw411ZIjd0KN3YaZugV4P9lbqjeDNGbrgmjHYLnKEf20pmDBysPqRtVVKXYwEv_l2Iaqh8hw3AcCDwhMaox3AQrc5ErksOrzsqYjN9FjzMFLMrOIQNJADtC_IlsJTxSSQJgA7h1f6XrizFllTuX1HWvNyT9rzP_WHRMAHuL5mnNccmOhkracP_dHIiS2IfQzuHUvjlPsBZ2WN6.Kv4xqpFfXjPAL1D%22&SynoToken=GVQwPUfeyr7d6",
+				"hash": "2e461bf665839108079c57a51daad576386392ce",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
