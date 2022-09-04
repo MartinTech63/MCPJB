@@ -25,7 +25,7 @@
 			"version": 5,
 			"install": {
 				"url": "https://drive.charreyron.fr/d/s/qCMSejumx3QLJEpTo7gluyxV2ORJi0AY/webapi/entry.cgi/optifine-1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706627684924439326%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662322362331&sharing_token=%22pfJAs7uVnBUSt72vNIc1FGcHW6uw411ZIjd0KN3YaZugV4P9lbqjeDNGbrgmjHYLnKEf20pmDBysPqRtVVKXYwEv_l2Iaqh8hw3AcCDwhMaox3AQrc5ErksOrzsqYjN9FjzMFLMrOIQNJADtC_IlsJTxSSQJgA7h1f6XrizFllTuX1HWvNyT9rzP_WHRMAHuL5mnNccmOhkracP_dHIiS2IfQzuHUvjlPsBZ2WN6.Kv4xqpFfXjPAL1D%22&SynoToken=GVQwPUfeyr7d6",
-				"hash": "2e461bf665839108079c57a51daad576386392ce",
+				"hash": "b853ccf1a738f313da49dfe69f39498c8b538539",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
