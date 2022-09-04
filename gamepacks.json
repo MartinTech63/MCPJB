@@ -25,8 +25,8 @@
 			"version": 8,
 			"install": {
 				"url": "https://drive.charreyron.fr/d/s/qCDozPoOa4r87UujStYfPilEyaPNFYGk/webapi/entry.cgi/modd%C3%A9e_test_1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706597258939905405%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662307849663&sharing_token=%22kT6OW_8vCp8XDbSKG.QXxnV1S3hblTyqOWjbAp.KLwplJehFcMN2zKvdF_6l.KFBcAGr2lfCsLs5KdsG1797vaJQYib0oKNjoGOgj9ByYLRbCkwYYefmf_p.a_x0a_LoSSouID57Teoh.CiTlacI.t5iZulTarrBb2uJv6.jeQTa1wD_BoRpmfE64FSQsKDsCM3_hAjxXZlb.LugkPeOPntn6Uj2nN.FgSvLX6xb_cwl5XQGx1ltKlHK%22&SynoToken=GVQwPUfeyr7d6",
-				"hash": "394b21b22e04bc13f98e8247c3aa860c88806c6e",
-				"verify": ["libraries", "natives", "minecraft.jar"]
+				"hash": "b50c7fa3962aef5b2ad6f0ea6af6251de2f80a81",
+				"verify": ["libraries", "natives", "minecraft.jar", "forge.jar"]
 			},
 			"launch": {
 				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
@@ -34,7 +34,7 @@
 				"jvmflags_64": ["-Xmx2G"],
 				"natives": "natives",
 				"libraries": "libraries",
-				"jar": "minecraft.jar",
+				"jar": "forge.jar",
 				"main": "net.minecraft.launchwrapper.Launch",
 				"assets": "assets",
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
