@@ -4,7 +4,6 @@
 
 
 
-![Logo](https://raw.githubusercontent.com/MartinTech63/MCPJBdl/main/assets/splash.png)
 
 
 ## 🚀 Gestionnaire de téléchargement de MCPJB
