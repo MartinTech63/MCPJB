@@ -4,7 +4,7 @@
 			"name": "Optifine 1.8.9",
 			"version": 8,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/qBQ17NVEijpd0sQkVq6k9PE3CXWgmfPp/webapi/entry.cgi/vanilla-1_8_9-3.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706421867107365862%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662233127677&sharing_token=%223KLe8FHGw8g9eF5a9UN5bkRTize9HkZG2qQ29aQ32Fn.pZ5e0umHGxI_L37wMqOwtyfTf2feJWB6xoJNm1pq0CjLdCW5Tfaau4_HSnyBkyoqmGrLWYiAjV24qWvwQRUG_83EQiesMre.eeIUAAyKbZSFgF43tYPtfchD_w98ajFxsPPMqSpqUBUpZYv1PjUuSUtn8_E2hZfrr5GH.66.OtFJznDnDbmuXTcMLM1LRot_7AcdaScmrza.%22&SynoToken=4cVpyeVA8Kt1o",
+				"url": "https://drive.charreyron.fr/d/s/qBQ17NVEijpd0sQkVq6k9PE3CXWgmfPp/webapi/entry.cgi/optifine-1_8_9.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706421867107365862%22%5D&force_download=true&json_error=true&_dc=1665306687139&sharing_token=%22s1hF9ezguDqiyekaG0BdFOItLub6o48CBawWKtH5wCwixrPGVlnzEodu9D3_K_AzIA4Ba42R6VDnN_uUsHnCCcaUry16cwx9AvTI.jayIQ4OnKJUxdJo7s81ZDbMROr5ZgLRqzBIxSXNdcBAdzyy0b2DcZC3Hu540xjKxv3RyB3Yrs3M0Ot8JwWjzJNnqdVjz0lZi2Hvx2fhRKokhhdkUlYGJDRlrpwUoCYyC3l9gtREGyTGY4bayrhV%22&SynoToken=aS6deiQsaTTnI",
 				"hash": "8be887c6e61921587bf1d86c71cba9f9b7971965",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
