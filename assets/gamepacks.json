@@ -24,7 +24,7 @@
 			"name": "Optifine 1.16.4",
 			"version": 5,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/qCMSejumx3QLJEpTo7gluyxV2ORJi0AY/webapi/entry.cgi/optifine-1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706627684924439326%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1662322362331&sharing_token=%22pfJAs7uVnBUSt72vNIc1FGcHW6uw411ZIjd0KN3YaZugV4P9lbqjeDNGbrgmjHYLnKEf20pmDBysPqRtVVKXYwEv_l2Iaqh8hw3AcCDwhMaox3AQrc5ErksOrzsqYjN9FjzMFLMrOIQNJADtC_IlsJTxSSQJgA7h1f6XrizFllTuX1HWvNyT9rzP_WHRMAHuL5mnNccmOhkracP_dHIiS2IfQzuHUvjlPsBZ2WN6.Kv4xqpFfXjPAL1D%22&SynoToken=GVQwPUfeyr7d6",
+				"url": "https://drive.charreyron.fr/d/s/qCMSejumx3QLJEpTo7gluyxV2ORJi0AY/webapi/entry.cgi/optifine-1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706627684924439326%22%5D&force_download=true&json_error=true&_dc=1665307114458&sharing_token=%22n6Gv_kD4LX3PHSGkzIMxUagOnmiZkvyKgfzkFdXLaMWxhF6HZ7Ux2_OsspyioVivxO0t9WnQc6Ia.9MdQMhqDR0BtyBbj.Kv3Sln8Mq6xU6NQOL1z19fnd684oEygeuWDYCOVITe_WgWuBqKLbsukHrAlNtT_hh2vNM4SqRLHpAftWoRt3RVk30lR2_voYZEVa5wRCTa58x5m9_9YGnQfzIgjK1Aw0k3VvwF7zAGjfZlplxKdParM4FZ%22&SynoToken=aS6deiQsaTTnI",
 				"hash": "3928da44fd72ff9af8ed72725108cc1f2dadfaf4",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
