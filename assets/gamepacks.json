@@ -40,7 +40,7 @@
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
 		},
-		"vanilla_1_8_9": {
+		"betafiles": {
 			"name": "Beta Opti 1.15.2",
 			"version": 7,
 			"install": {
