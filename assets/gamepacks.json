@@ -44,8 +44,8 @@
 			"name": "Beta Opti 1.15.2",
 			"version": 7,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/qql0k5h2G1nJRriTwRT52d8pe43oyXYH/webapi/entry.cgi/optifine-1_15_2.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A715447744008859810%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1666528106519&sharing_token=%22PAWSM_t1PuixnvhDcGt.2y228nYGSQ_r3SRzQ9dG1LJYwiyEcwysTaet65zjmasu5feuzYOjySBNDXhcyqjQp7EOard60mSqsg1QAGbh98uKoKlyYKzLeGqjFILVIRF_2poVccFCaMuXE2U2bfXHODlPWTONsNrgANYc.taqWysRnJVrmvDwSf0iQIPoydTFsaS0IHmO43SSWO5H4pXUMWmJfcs6AmofYsJd2YYqTf1b6KABMJ1dInsm%22&SynoToken=bE8y.MnH54f9I",
-				"hash": "f6a6b9cc30867122796cbd53b44f625e7fed23db",
+				"url": "",
+				"hash": "",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
