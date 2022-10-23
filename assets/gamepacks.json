@@ -44,7 +44,7 @@
 			"name": "Beta Opti 1.15.2",
 			"version": 7,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/qqilg0ggZhImHs5wbG2AaIR5UJ28iVVZ/webapi/entry.cgi/opti-1_15_2%20officiel.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A715439845037617278%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1666524362103&sharing_token=%22c4N._O30b.rMCz1tDyY7DTI7nMXUuWXmAii7cio19Xq63zACrf4NKLxowY.K0na6UCYiFUbLPm31EdNhZT9sJ5t1X2c_7CzGUSDX3hUfYdL9Cd9laHOqwqo60ZF__nSHl.7IYADDe9loUNGI1AMW7jK3Gn.qdRyCB0NUPloo18pwE5e7ToG18vM3UQVas5NSigSoFUGsp36QKFrFbBV7ewMLdnIMN5_QjGLvp0e9zF2mIvplx83lp66m%22&SynoToken=bE8y.MnH54f9I",
+				"url": "https://drive.charreyron.fr/d/s/qql0k5h2G1nJRriTwRT52d8pe43oyXYH/webapi/entry.cgi/optifine-1_15_2.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A715447744008859810%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1666528106519&sharing_token=%22PAWSM_t1PuixnvhDcGt.2y228nYGSQ_r3SRzQ9dG1LJYwiyEcwysTaet65zjmasu5feuzYOjySBNDXhcyqjQp7EOard60mSqsg1QAGbh98uKoKlyYKzLeGqjFILVIRF_2poVccFCaMuXE2U2bfXHODlPWTONsNrgANYc.taqWysRnJVrmvDwSf0iQIPoydTFsaS0IHmO43SSWO5H4pXUMWmJfcs6AmofYsJd2YYqTf1b6KABMJ1dInsm%22&SynoToken=bE8y.MnH54f9I",
 				"hash": "86dc8e5919a4506c17fae55b542e112863ebf214",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
@@ -55,9 +55,9 @@
 				"natives": "natives",
 				"libraries": "libraries",
 				"jar": "minecraft.jar",
-				"main": "net.minecraft.client.main.Main",
+				"main": "net.minecraft.launchwrapper.Launch",
 				"assets": "assets",
-				"args": []
+				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
 		}
 	}
