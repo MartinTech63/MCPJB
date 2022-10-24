@@ -35,7 +35,7 @@
 				"natives": "natives",
 				"libraries": "libraries",
 				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
+				"main": "net.minecraft.client.main.Main",
 				"assets": "assets",
 				"args": [""]
 			}
