@@ -25,7 +25,7 @@
 			"version": 7,
 			"install": {
 				"url": "https://drive.charreyron.fr/d/s/qrSeAZtXEXG7eVavxJFqQau4TOIL01fm/webapi/entry.cgi/vanilla-1_15_2.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A715601412911837250%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1666601525267&sharing_token=%227V68Fd9xDj9AFSZdRpO5C_013AeWW4GCQ8fUVGOLMN_O7vuQ46lUuW6iry7Dfqof4WnAuia4N9OHibIvBMLIsfMnDRcRBYfQIKE3EA2inKTFRFXyoPGeoX8uBdHCZ_d7k_cegkdYy8OXdGYRPeubCzfhK_6nVgHcnPN9zmkwfweSNvBWc4jRvXCShqKMW18VId0jejhTTNyvh4LQvUeRjUV7mhvlqNcLg4daV8hKTN.3Dp2TgFy73WAH%22&SynoToken=S5EGhIvjwl6es",
-				"hash": "cb934272d85ffc95a198d12698cc859f412bf1b7",
+				"hash": "5dc11f984146109a40acf0732c25c3c78ad3ae93",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
