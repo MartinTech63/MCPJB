@@ -4,7 +4,7 @@
 			"name": "Optifine 1.8.9",
 			"version": 8,
 			"install": {
-				"url": "https://files.lttdm.ovh/share/j1mf2Z22",
+				"url": "https://files.lttdm.ovh/api/public/dl/j1mf2Z22",
 				"hash": "6bfe997428d3180ccf91290c9228e07fdf6ce781",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
