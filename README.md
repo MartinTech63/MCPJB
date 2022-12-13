@@ -1,11 +1,11 @@
 
 # MCPJB Launcher
 
-## 🚀 Gestionnaire de téléchargement de MCPJB
+## 🚀 __Gestionnaire de téléchargement de MCPJB
 
 
 
-## ⚠️Ce projet n'est pas disponible au téléchargent⚠️
+## ⚠️__Ce projet n'est pas disponible au téléchargent__⚠️
 
 Aucunes copies de ce logiciel n'est disponible au téléchargement, et ne peut être distribué.
 
