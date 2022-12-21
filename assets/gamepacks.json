@@ -24,7 +24,7 @@
 			"name": "test 1.9.4",
 			"version": 8,
 			"install": {
-				"url": "https://tinyurl.com/2k9o386g",
+				"url": "tinyurl.com/2k9o386g",
 				"hash": "4dff681bd722f224e49b10eb428ad2ca5bc0e7b9",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
