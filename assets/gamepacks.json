@@ -24,7 +24,7 @@
 			"name": "Optifine 1.8.9",
 			"version": 8,
 			"install": {
-				"url": "drive.charreyron.fr/d/s/qBQ17NVEijpd0sQkVq6k9PE3CXWgmfPp/webapi/entry.cgi/optifine-1_8_9.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A706421867107365862%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1670929425720&sharing_token=%22pEBhDh63gPcvDK3eakZfI54_749nKoNaANSco_nBG_tWuBy60v4yHjirm0nqQFmU7.cG_rvJDiATZqNavXtXkuBVPpuc7fRF9YVwWwg98i7SlCaorjKDFMWebI_nfeEjMoEGUGBLMuts10jkwbRuQFTVdEOwCl.Oj1IC3Iel99nueJAsqRI4nX5rZ1_SamNLKRZ02AISbr8JdPTlJxaJOrqn2.FS7dDCMOqaIbdtj2GvzJyC0EoUGevg%22&SynoToken=eqTsYMlJSPiUg",
+				"url": "",
 				"hash": "6bfe997428d3180ccf91290c9228e07fdf6ce781",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
