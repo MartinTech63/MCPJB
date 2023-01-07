@@ -1,11 +1,11 @@
 {
 	"packs": {
-		"optifine_1_8_9": {
-			"name": "Optifine 1.8.9",
+		"optifine_1_9_4": {
+			"name": "MCPJB 1.9.4",
 			"version": 8,
 			"install": {
-				"url": "https://files.lttdm.ovh/api/public/dl/j1mf2Z22",
-				"hash": "6bfe997428d3180ccf91290c9228e07fdf6ce781",
+				"url": "https://drive.charreyron.fr/d/s/rX2kCh05vs7boGOGcFhrOZWWsKFf5blM/webapi/entry.cgi/optifine-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A724680478105318345%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1670930633259&sharing_token=%22hBl2Lx.mIJj3uItLduaq84C2Ol3FuhzGfwW70pL5qOgYnYqJN1dXHbCiPCE1mI2DLBa7UgYt1TQUbyAtfem7K0ZQgSmPlO1yNBLTzN2R7ryXtkd4PCj4KP.hMsFvzjRWct1Qcp7sC8WFivFMxfv2cXujqVMzQA1N1y6HhzJBlKDh0XwWSLKhtmwb_PZyJ0f05imN8JiKZ5P5pLamBq2XBvQUQHn_Ms0gfkYB.p2HpP20q85UAz1BGSzZ%22&SynoToken=eqTsYMlJSPiUg",
+				"hash": "d6416a14bbb1e845a86cb9d1e0657ce2793c1d4c",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
