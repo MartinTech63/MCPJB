@@ -25,7 +25,7 @@
 			"version": 8,
 			"install": {
 				"url": "https://drive.charreyron.fr/d/s/rsfUesHrbcQFAFgM7dk4DvMVXGwH8S88/webapi/entry.cgi/test-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A729402080306967753%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1673182049384&sharing_token=%22xdmliRhiNAXHMFopFkR1x6L4x9ebnhyZWuxxygF8phMb64i4NUWGjnWR0I.M7eVQWWh1XyrhJXvKrZYWalJLpJGmZ7Rk05Za4ZjXgEjeTd4EE62c9ykz8gwiMZBVYbIZAYD_D.25rPs7w_u0YhNg5X1BWhwMEGND7m8YqPHU_evWlxegBJNcSYum5lLmOV7pYlbEY1HyxOcc8Re3vQNwMEHkhimGnewtmPSHyfyCJGUjP3oKX08yMS8_%22&SynoToken=YZa.EHYq0l9KU",
-				"hash": "77bc1125ae6af92226207825f64743bdd12fff70",
+				"hash": "40205c0742f6d0f12a1c6b61727651112bab7fb1",
 				"verify": [""]
 			},
 			"launch": {
