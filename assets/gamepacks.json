@@ -20,13 +20,13 @@
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}	
 		},
-		"test_1_9_4": {
-			"name": "test 1.9.4",
+		"test_1_16_4": {
+			"name": "test 1.16.4",
 			"version": 8,
 			"install": {
-				"url": "drive.charreyron.fr/d/s/rsfUesHrbcQFAFgM7dk4DvMVXGwH8S88/webapi/entry.cgi/test-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A729402080306967753%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1673182049384&sharing_token=%22xdmliRhiNAXHMFopFkR1x6L4x9ebnhyZWuxxygF8phMb64i4NUWGjnWR0I.M7eVQWWh1XyrhJXvKrZYWalJLpJGmZ7Rk05Za4ZjXgEjeTd4EE62c9ykz8gwiMZBVYbIZAYD_D.25rPs7w_u0YhNg5X1BWhwMEGND7m8YqPHU_evWlxegBJNcSYum5lLmOV7pYlbEY1HyxOcc8Re3vQNwMEHkhimGnewtmPSHyfyCJGUjP3oKX08yMS8_%22&SynoToken=YZa.EHYq0l9KU",
+				"url": "https://drive.charreyron.fr/d/s/s08k4OP4Oxv1UUpSgaNR8sZtqnHyIPKb/webapi/entry.cgi/optifine-1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A731033463251056852%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1674313051348&sharing_token=%22OIEUV.kMAjvng1GAdLN7YuRQnwwJqKPq2f1vfPmyCtSxVDd9GhF5Kyjc69F8vvBg.zIC2pglv8xsHiwOIrMNkCXxZ4yqmeFVOQ3TwiPpKM7o96uxphWkmAnDcHePxTyOsbjNwp.Ve.Jd3I_Lu62WtQ4sQkOmizL.ujzT9mXt9j4PiiYeTabi0wcNkOvZJnJK9_W_EmF_SGDvPf77cvgKdvDhsgQoJ89hzd3V_eu_iJ.80WJOlo1Iu2bv%22&SynoToken=fBhW9ywvFFuHk",
 				"hash": "40205c0742f6d0f12a1c6b61727651112bab7fb1",
-				"verify": [""]
+				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
 				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
