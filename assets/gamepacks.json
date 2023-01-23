@@ -24,7 +24,7 @@
 			"name": "test 1.16.4",
 			"version": 5,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/s08k4OP4Oxv1UUpSgaNR8sZtqnHyIPKb/webapi/entry.cgi/optifine-1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A731033463251056852%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1674313051348&sharing_token=%22OIEUV.kMAjvng1GAdLN7YuRQnwwJqKPq2f1vfPmyCtSxVDd9GhF5Kyjc69F8vvBg.zIC2pglv8xsHiwOIrMNkCXxZ4yqmeFVOQ3TwiPpKM7o96uxphWkmAnDcHePxTyOsbjNwp.Ve.Jd3I_Lu62WtQ4sQkOmizL.ujzT9mXt9j4PiiYeTabi0wcNkOvZJnJK9_W_EmF_SGDvPf77cvgKdvDhsgQoJ89hzd3V_eu_iJ.80WJOlo1Iu2bv%22&SynoToken=fBhW9ywvFFuHk",
+				"url": "drive.charreyron.fr/d/s/s08k4OP4Oxv1UUpSgaNR8sZtqnHyIPKb/webapi/entry.cgi/optifine-1_16_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A731033463251056852%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1674313051348&sharing_token=%22OIEUV.kMAjvng1GAdLN7YuRQnwwJqKPq2f1vfPmyCtSxVDd9GhF5Kyjc69F8vvBg.zIC2pglv8xsHiwOIrMNkCXxZ4yqmeFVOQ3TwiPpKM7o96uxphWkmAnDcHePxTyOsbjNwp.Ve.Jd3I_Lu62WtQ4sQkOmizL.ujzT9mXt9j4PiiYeTabi0wcNkOvZJnJK9_W_EmF_SGDvPf77cvgKdvDhsgQoJ89hzd3V_eu_iJ.80WJOlo1Iu2bv%22&SynoToken=fBhW9ywvFFuHk",
 				"hash": "6c416a90aba5a0d6f3373d6ab5c6bfa727f4ad25",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
