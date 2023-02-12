@@ -4,7 +4,7 @@
 			"name": "MCPJB 1.9.4",
 			"version": 8,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/rX2kCh05vs7boGOGcFhrOZWWsKFf5blM/webapi/entry.cgi/optifine-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A724680478105318345%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1673529559282&sharing_token=%22r_IWcn0Mtg7YNrjcSVNP9FWd_7E5Yt3TrRcSGsm0v58aCfu_URFODr7ehYzmozyGbIHd4xIzwfqtcR5KJGFCrRlEpCU4HplbRTF0BMNQV_2DFnZScKvDULr8FJUKg3gSqbkKyuWosZPZQXeLZ7MO6Ecvzd4BH8t1EmQI11KB66D4aMa5_7Qdx4XpP_ITqYlZcC20cu2CZgUq3qHW_FQjfipfF_Iz.OyS_jyDfnyqb6gQNkkAxFVqo1yN%22&SynoToken=wMF9HTv.jtGcU",
+				"url": "https://drive.charreyron.fr/d/s/rX2kCh05vs7boGOGcFhrOZWWsKFf5blM/webapi/entry.cgi/optifine-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A724680478105318345%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1676215970960&sharing_token=%22KvPmSiilZisafS3wWdU6FOLbjtJ4lIUru7dkotoAbbf4v1AchEbD9SA3WcvWp24JU_99j9.0n7iCsYiduG5Qkee3Ab.XBhi3k4F7A_cZC5dtAq0sgf2dEyRpkqH1TzmyW5CAcdIGZMKIB4PoUX2aOFnbu46vKxfq6mRjsEOf5FsHXEcL4i_k4tI243KAhcVX0wdnV6ij_TMNOFFDdmbBeorha2P1TiG_TXtZO1eblXzlNRNI1ptPQISL%22&SynoToken=a8bf4mECqYfp2",
 				"hash": "bb9c5e88f792cfd1333084ed98fbe6b5f7e3ac83",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
