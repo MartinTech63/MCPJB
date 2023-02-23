@@ -19,26 +19,6 @@
 				"assets": "assets",
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}	
-		},
-		"last_exe": {
-			"name": "Dernière version",
-			"version": 5,
-			"install": {
-				"url": "https://files.lttdm.ovh/api/public/dl/LBhafZGv",
-				"hash": "6c416a90aba5a0d6f3373d6ab5c6bfa727f4ad25",
-				"verify": ["libraries", "natives", "minecraft.jar"]
-			},
-			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx2G"],
-				"natives": "natives",
-				"libraries": "libraries",
-				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
-				"assets": "assets",
-				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			}
 		}
 	}
 }
