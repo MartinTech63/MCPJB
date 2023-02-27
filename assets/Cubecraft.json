@@ -22,3 +22,26 @@
 		}
 	}
 }
+
+
+"packs": {
+    "forge_1_16_5": {
+        "name": "Forge 1.16.5",
+        "version": 1,
+        "install": {
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.8/forge-1.16.5-36.2.8-installer.jar",
+            "hash": "b7f285d9747472b7d51525c9f1697ee479d52390",
+            "verify": ["libraries", "natives", "minecraft.jar"]
+        },
+        "launch": {
+            "jvmargs": ["-Xmx4G", "-XX:+UseG1GC", "-XX:+ParallelRefProcEnabled", "-XX:MaxGCPauseMillis=200", "-XX:+UnlockExperimentalVMOptions", "-XX:+DisableExplicitGC", "-XX:+AlwaysPreTouch", "-Dfml.ignorePatchDiscrepancies=true", "-Dfml.ignoreInvalidMinecraftCertificates=true"],
+            "mainClass": "net.minecraft.launchwrapper.Launch",
+            "version": {
+                "number": "1.16.5",
+                "type": "forge"
+            },
+            "libraries": "libraries",
+            "tweakers": ["forge.FMLTweaker"]
+        }
+    }
+}
