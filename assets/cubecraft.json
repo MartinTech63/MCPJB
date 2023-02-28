@@ -15,7 +15,7 @@
 				"natives": "natives",
 				"libraries": "libraries",
 				"jar": "minecraft.jar",
-				"main": "net.minecraftforge.fml.relauncher.ServerLaunchWrapper",
+				"main": "cpw.mods.modlauncher.Launcher",
 				"assets": "assets",
 				"args": []
 			}	
