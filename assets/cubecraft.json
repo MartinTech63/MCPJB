@@ -4,20 +4,20 @@
 			"name": "CubeCraft Moddée",
 			"version": 1,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/rX2kCh05vs7boGOGcFhrOZWWsKFf5blM/webapi/entry.cgi/optifine-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A724680478105318345%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1676215970960&sharing_token=%22KvPmSiilZisafS3wWdU6FOLbjtJ4lIUru7dkotoAbbf4v1AchEbD9SA3WcvWp24JU_99j9.0n7iCsYiduG5Qkee3Ab.XBhi3k4F7A_cZC5dtAq0sgf2dEyRpkqH1TzmyW5CAcdIGZMKIB4PoUX2aOFnbu46vKxfq6mRjsEOf5FsHXEcL4i_k4tI243KAhcVX0wdnV6ij_TMNOFFDdmbBeorha2P1TiG_TXtZO1eblXzlNRNI1ptPQISL%22&SynoToken=a8bf4mECqYfp2",
-				"hash": "091aaf194fb6eab7514945b6df405da757f1e83d",
+				"url": "https://drive.charreyron.fr/d/s/sZKVPVY80s6p46yvLeMGGqcOjcIEFB0l/webapi/entry.cgi/cubecraft%20test.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A738716793662651607%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1677623642962&sharing_token=%22gWrrjtYb6WWoeTIAiJrv_eo8xMCiYlIHcYoPcziWVKiv3VQZBuXxFkrtidgZT.ho6zS6fLyVW2Yumq7zYNABo3x0QOsUW0rP0W8MhvAqXVoiweX0SlM.ngHZgBn2WHRgxjYySbb3dITR9gV5EYXAeePZf4xCGP_8wr8_iIF9znwu.VbZrKJP38VtS1BWoOnqXLi_FJp__3mSqpNAuT4BXOi0XcBohH_hGWYYrkK2cqqYr0pN_Sfhn53w%22&SynoToken=paB91GjIm8wBg",
+				"hash": "33219307151f63544c1769a205775db0b2e547fb",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
-		"launch": {
-    				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
-    				"jvmflags_default": ["-Xmx1280M"],
-    				"jvmflags_64": ["-Xmx4G"],
-    				"natives": "natives",
-    				"libraries": "libraries",
-    				"jar": "forge-1.16.4-universal.jar", 
-    				"main": "net.minecraftforge.fml.relauncher.ServerLaunchWrapper",
-    				"assets": "assets",
-    				"args": ["nogui"]
+			"launch": {
+				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
+				"jvmflags_default": ["-Xmx1280M"],
+				"jvmflags_64": ["-Xmx4G"],
+				"natives": "natives",
+				"libraries": "libraries",
+				"jar": "minecraft.jar",
+				"main": "net.minecraft.launchwrapper.Launch",
+				"assets": "assets",
+				"args": ["--tweakClass"]
 			}	
 		}
 	}
