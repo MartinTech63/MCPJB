@@ -11,13 +11,13 @@
 			"launch": {
 				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
 				"jvmflags_default": ["-Xmx1280M"],
-				"jvmflags_64": ["-Xmx4G"],
+				"jvmflags_64": ["-Xmx2G"],
 				"natives": "natives",
 				"libraries": "libraries",
 				"jar": "minecraft.jar",
-				"main": "net.minecraft.launchwrapper.Launch",
+				"main": "net.minecraftforge.fml.relauncher.ServerLaunchWrapper",
 				"assets": "assets",
-				"args": ["--tweakClass"]
+				"args": []
 			}	
 		}
 	}
