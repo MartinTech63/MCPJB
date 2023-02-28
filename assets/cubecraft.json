@@ -14,12 +14,10 @@
     				"jvmflags_64": ["-Xmx4G"],
     				"natives": "natives",
     				"libraries": "libraries",
-    				"jar": "forge-{version}-universal.jar", // remplacez {version} par la version de Forge que vous utilisez
+    				"jar": "forge-1.16.4-universal.jar", 
     				"main": "net.minecraftforge.fml.relauncher.ServerLaunchWrapper",
     				"assets": "assets",
     				"args": ["nogui"]
-}
-
 			}	
 		}
 	}
