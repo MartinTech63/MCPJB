@@ -5,7 +5,7 @@
 			"version": 1,
 			"install": {
 				"url": "https://drive.charreyron.fr/d/s/sZKVPVY80s6p46yvLeMGGqcOjcIEFB0l/webapi/entry.cgi/cubecraft%20test.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A738716793662651607%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1677623642962&sharing_token=%22gWrrjtYb6WWoeTIAiJrv_eo8xMCiYlIHcYoPcziWVKiv3VQZBuXxFkrtidgZT.ho6zS6fLyVW2Yumq7zYNABo3x0QOsUW0rP0W8MhvAqXVoiweX0SlM.ngHZgBn2WHRgxjYySbb3dITR9gV5EYXAeePZf4xCGP_8wr8_iIF9znwu.VbZrKJP38VtS1BWoOnqXLi_FJp__3mSqpNAuT4BXOi0XcBohH_hGWYYrkK2cqqYr0pN_Sfhn53w%22&SynoToken=paB91GjIm8wBg",
-				"hash": "33219307151f63544c1769a205775db0b2e547fb",
+				"hash": "8ffdc24564c893c8cb0efe2350032ad69c5b63e8",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
