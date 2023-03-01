@@ -15,7 +15,7 @@
 				"natives": "natives",
 				"libraries": "libraries",
 				"jar": "minecraft.jar",
-				"main": "cpw.mods.modlauncher.Launcher",
+				"main": "cp.mo.mo.Launcher",
 				"assets": "assets",
 				"args": []
 			}	
