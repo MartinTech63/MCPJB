@@ -15,7 +15,7 @@
 				"natives": "natives",
 				"libraries": "libraries",
 				"jar": "minecraft.jar",
-				"main": "cp.mo.mo.Launcher",
+				"main": "cpw.mods.modlauncher.Launcher",
 				"assets": "assets",
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}	
