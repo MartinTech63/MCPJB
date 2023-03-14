@@ -19,6 +19,7 @@
 				"assets": "assets",
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			},
+		}
 		"MCPJB": {
 			"name": "Beta MCPJ",
 			"version": 14.03,
