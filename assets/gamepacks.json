@@ -18,8 +18,8 @@
 				"main": "net.minecraft.launchwrapper.Launch",
 				"assets": "assets",
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
-			},
-		}
+			}
+		},
 		"BETA": {
 			"name": "Beta MCPJB - BialCraft 1.9.4",
 			"version": 14.03,
