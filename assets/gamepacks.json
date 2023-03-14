@@ -19,7 +19,7 @@
 				"assets": "assets",
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			},
-		"MCPJB - BialCraft 1.9.4": {
+		"MCPJB": {
 			"name": "Beta MCPJB - BialCraft 1.9.4",
 			"version": 14.03,
 			"install": {
