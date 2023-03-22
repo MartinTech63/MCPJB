@@ -9,7 +9,7 @@
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
-				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
+				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx4G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
 				"jvmflags_default": ["-Xmx1280M"],
 				"jvmflags_64": ["-Xmx4G"],
 				"natives": "natives",
