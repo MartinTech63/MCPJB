@@ -25,7 +25,7 @@
 			"version": 5.05,
 			"install": {
 				"url": "https://files.lttdm.ovh/api/public/dl/nAjqJBQ7",
-				"hash": "4ecdf8ef4c661bc62ed96987fdb0b994098c3a0b",
+				"hash": "d0aede84348b84194c09406a6f207fadb1d6f124",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
