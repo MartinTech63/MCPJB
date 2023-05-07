@@ -25,7 +25,7 @@
 			"version": 7.05,
 			"install": {
 				"url": "https://files.lttdm.ovh/api/public/dl/nAjqJBQ7",
-				"hash": "4ab6915cae2c50f6a3f0a1f0a1108b63a8b732b9",
+				"hash": "487a0799254ef3ae67698bc349b53187ad367b35",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
