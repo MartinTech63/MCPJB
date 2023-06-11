@@ -4,7 +4,7 @@
 			"name": "MCPJB - BialCraft 1.9.4",
 			"version": 24.03,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/rX2kCh05vs7boGOGcFhrOZWWsKFf5blM/webapi/entry.cgi/optifine-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A724680478105318345%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1683614214318&sharing_token=%2283kMsvZSNXaTXMwHe5HyNvApNA5nxf.muqT3SNwWZF3cIB3F1b6rAmZ1H_qYrkVlwUwXrNUL5JWO88pyx6OHF9ilgs_yfXKpdFV7irttNXDD41c71a8sYVEcFx8SqRL3i5gthPoVFcz5.lqB2.CZjIzlZcXeCVnool7dv7lIVgWm5KDLyKaIWI2NxZkeRSVrcPCqojksWohq3sWJlr4kpogSionKCYXBs_MBATKRmqLfg2GKmdIsgObv%22&SynoToken=h6sClaVyeWmwg",
+				"url": "https://drive.charreyron.fr/d/s/rX2kCh05vs7boGOGcFhrOZWWsKFf5blM/webapi/entry.cgi/optifine-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A724680478105318345%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1686499982247&sharing_token=%225cB68YoWhZtm8izdCvJlNhQxgiJGlt24p5l6VVMq4ijRsgjBr5CyxNpn9LczSGXa1Iqt194nf72CSLhcv9Eb.jdQ1WxiKqtg6lblqJTscu3LovO03NyWRJOSzXXdiX0W2urjtbZS7ciCDbqJV.8MCNoOIBnnbaWmeICvJf7LLHq0qMEiNt7akWGy88kAUgSxRnXj4_6b1jjxYbN7TY.Fbm59cxLXEQgev01esprl3QcBh0DCZPA4DMz0%22&SynoToken=veLpuxtKOIWCs",
 				"hash": "81d761a5d0038d117dd999e98ef30ba796003fe7",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
