@@ -4,7 +4,7 @@
 			"name": "MCPJB - BialCraft 1.9.4",
 			"version": 24.03,
 			"install": {
-				"url": "https://drive.charreyron.fr/d/s/rX2kCh05vs7boGOGcFhrOZWWsKFf5blM/webapi/entry.cgi/optifine-1_9_4.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A724680478105318345%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1686499982247&sharing_token=%225cB68YoWhZtm8izdCvJlNhQxgiJGlt24p5l6VVMq4ijRsgjBr5CyxNpn9LczSGXa1Iqt194nf72CSLhcv9Eb.jdQ1WxiKqtg6lblqJTscu3LovO03NyWRJOSzXXdiX0W2urjtbZS7ciCDbqJV.8MCNoOIBnnbaWmeICvJf7LLHq0qMEiNt7akWGy88kAUgSxRnXj4_6b1jjxYbN7TY.Fbm59cxLXEQgev01esprl3QcBh0DCZPA4DMz0%22&SynoToken=veLpuxtKOIWCs",
+				"url": "https://archive.org/download/mcpjb/optifine-1_9_4.zip",
 				"hash": "81d761a5d0038d117dd999e98ef30ba796003fe7",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
