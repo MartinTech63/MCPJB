@@ -5,7 +5,7 @@
 			"version": 24.03,
 			"install": {
 				"url": "https://archive.org/download/mcpjb/optifine-1_9_4.zip",
-				"hash": "81d761a5d0038d117dd999e98ef30ba796003fe7",
+				"hash": "ed19f1096c15359a62dd7615f7476aeb3f78bd3a",
 				"verify": ["libraries", "natives", "minecraft.jar"]
 			},
 			"launch": {
