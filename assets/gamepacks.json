@@ -4,7 +4,7 @@
 			"name": "MCPJB - BialCraft 1.9.4",
 			"version": 14.12,
 			"install": {
-				"url": "https://www.martintech.fr/wp-content/uploads/2011/01/optifine-1_9_4.zip",
+				"url": "http://192.168.1.187/wp-content/uploads/2011/01/optifine-1_9_4.zip",
 				"hash": "ed19f1096c15359a62dd7615f7476aeb3f78bd3a",
 				"verify": ["libraries", "natives", "minecraft.jar", "option.txt"]
 			},
