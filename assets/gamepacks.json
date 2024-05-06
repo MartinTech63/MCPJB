@@ -20,7 +20,7 @@
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
 		},
-		"forge_1_9_4": {
+		"dev_1_9_4": {
 			"name": "MCPJB - BialDEV 1.9.4",
 			"version": 1,
 			"install": {
