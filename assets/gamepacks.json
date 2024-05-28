@@ -25,7 +25,7 @@
 			"version": 1,
 			"install": {
 				"url": "https://www.martintech.fr/wp-content/uploads/2011/01/dev-1_9_4.zip",
-				"hash": "4e2098ff72e49e87e7df18cca422c4ed27b790c6",
+				"hash": "6c1fd8c932fa750c7a74fdb7d8df3bebe03d8934",
 				"verify": ["libraries", "natives", "minecraft.jar", "option.txt"]
 			},
 			"launch": {
