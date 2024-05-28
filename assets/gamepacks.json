@@ -25,7 +25,7 @@
 			"version": 1,
 			"install": {
 				"url": "https://www.martintech.fr/wp-content/uploads/2011/01/dev-1_9_4.zip",
-				"hash": "5ab3c02f296895b9dfaf965b910fd6ab82b69929",
+				"hash": "4e2098ff72e49e87e7df18cca422c4ed27b790c6",
 				"verify": ["option.txt"]
 			},
 			"launch": {
