@@ -26,7 +26,7 @@
 			"install": {
 				"url": "https://www.martintech.fr/wp-content/uploads/2011/01/dev-1_9_4.zip",
 				"hash": "4e2098ff72e49e87e7df18cca422c4ed27b790c6",
-				"verify": ["option.txt"]
+				"verify": ["libraries", "natives", "minecraft.jar", "option.txt"]
 			},
 			"launch": {
 				"jvmflags": ["-XX:+IgnoreUnrecognizedVMOptions", "-XstartOnFirstThread", "-Xmx2G", "-XX:+UseG1GC", "-XX:+UnlockExperimentalVMOptions", "-XX:G1NewSizePercent=20", "-XX:G1ReservePercent=20", "-XX:MaxGCPauseMillis=50", "-XX:G1HeapRegionSize=32M"],
