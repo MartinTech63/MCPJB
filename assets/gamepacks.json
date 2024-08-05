@@ -20,46 +20,6 @@
 				"args": ["--tweakClass", "optifine.OptiFineTweaker"]
 			}
 		},
-        "vanilla_1_9_4": {
-            "name": "Version 1.9.4",
-            "version": 8,
-            "install": {
-                "url": "https://www.martintech.fr/wp-content/uploads/2011/01/optifine-1_9_4.zip",
-                "hash": "b23a4c9c82b181e60e15b29028a374390bb5d254",
-                "verify": [
-                    "libraries",
-                    "natives",
-                    "minecraft.jar"
-                ]
-            },
-            "launch": {
-                "jvmflags": [
-                    "-XX:+IgnoreUnrecognizedVMOptions",
-                    "-XstartOnFirstThread",
-                    "-Xmx2G",
-                    "-XX:+UseG1GC",
-                    "-XX:+UnlockExperimentalVMOptions",
-                    "-XX:G1NewSizePercent=20",
-                    "-XX:G1ReservePercent=20",
-                    "-XX:MaxGCPauseMillis=50",
-                    "-XX:G1HeapRegionSize=32M"
-                ],
-                "jvmflags_default": [
-                    "-Xmx1280M"
-                ],
-                "jvmflags_64": [
-                    "-Xmx2G"
-                ],
-                "natives": "natives",
-                "libraries": "libraries",
-                "jar": "minecraft.jar",
-                "main": "net.minecraft.launchwrapper.Launch",
-                "assets": "assets",
-                "args": [
-                    "--tweakClass",
-                    "optifine.OptiFineTweaker"
-                ]
-            },
 		"dev_1_9_4": {
 			"name": "MCPJB - BialDEV 1.9.4",
 			"version": 1,
