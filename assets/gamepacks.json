@@ -5,7 +5,7 @@
 			"version": 18.08,
 			"install": {
 				"url": "https://www.martintech.fr/wp-content/uploads/2011/01/optifine-1_9_4.zip",
-				"hash": "9dc8077705537e985bb8eb5698c8cdd9af2601de",
+				"hash": "52af025f255d6cb615ff766a84b22e314160662e",
 				"verify": ["libraries", "natives", "minecraft.jar", "option.txt"]
 			},
 			"launch": {
